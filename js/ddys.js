@@ -19,9 +19,9 @@ function getLists(html)
 		let src0 = it.src0;
 		let src1 = it.src1;
 		let title = it.caption;
-		url1 = "https://v.ddys.pro" + src0;
-		url2 = "https://ddys.pro/getvddr2/video?id=" + src1 + "&type=mix";
-		let zm = "https://ddys.pro/subddr/" + it.subsrc;
+		url1 = "$$$https://ddys.one/" + src0;
+		url2 = "$$$https://ddys.one/getvddr2/video?id=" + src1 + "&type=mix";
+		let zm = "$$$https://ddys.one/subddr/" + it.subsrc;
 		list1.push({
 			title: title,
 			url: url1,

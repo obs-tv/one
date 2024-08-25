@@ -15,7 +15,7 @@ var rule = {
 		'Accept': '*/*',
 		'Referer': 'https://t-rex.tzfile.com/'
 	},
-	图片来源:'@Headers={"Accept":"*/*","Referer":"https://t-rex.tzfile.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"}',
+	图片来源:'@Headers={"Accept":"*/*","Referer":"https://t-rex.tzfile.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0"}',
 	timeout:5000,
 	class_name:'电影&电视剧&动画&纪录片演唱会&真人秀综艺',
 	class_url:'movies&tvshow&animation&faction&show',
